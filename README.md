@@ -1,1 +1,3 @@
-# modern-tunes
+# modern-tunes application
+
+moderndesktopminimal template
